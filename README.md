@@ -1,3 +1,5 @@
+[<img src="docs/Banner_okp4.png"/>](https://okp4.network)
+
 # Hey 👋, I'm Damien Sonneville
 
 <a href="https://linkedin.com/in/damiensonneville/" target="_blank">
